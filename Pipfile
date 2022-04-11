@@ -5,6 +5,8 @@ name = "pypi"
 
 [packages]
 slack-bolt = "*"
+flask = "*"
+gunicorn = "*"
 
 [dev-packages]
 
